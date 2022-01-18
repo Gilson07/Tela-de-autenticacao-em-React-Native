@@ -1,0 +1,14 @@
+com/autenticacao/MainApplication.java
+ com.autenticacao.MainApplication
+ com.autenticacao.MainApplication$1
+com/autenticacao/BuildConfig.java
+ com.autenticacao.BuildConfig
+com/autenticacao/ReactNativeFlipper.java
+ com.autenticacao.ReactNativeFlipper
+ com.autenticacao.ReactNativeFlipper$1
+ com.autenticacao.ReactNativeFlipper$2
+ com.autenticacao.ReactNativeFlipper$2$1
+com/autenticacao/MainActivity.java
+ com.autenticacao.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
